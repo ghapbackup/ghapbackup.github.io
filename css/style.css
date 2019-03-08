@@ -2160,3 +2160,11 @@ i.icon:before {
     text-align: center;
   }
 }
+@media (min-width: 940px) {
+  .single .sidebar {
+    width: 30%;
+  }
+  .single .content-area {
+    width: 70%;
+  }
+}
