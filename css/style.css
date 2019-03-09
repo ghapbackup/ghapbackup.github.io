@@ -1893,7 +1893,7 @@ i.icon:before {
 .highlight .code .strong {
   font-weight: bold;
 }
-@media only screen and (min-width: 960px) {
+@media only screen and (min-width: 1560px) {
   .nav-container-inner {
     display: block !important;
   }
@@ -2158,13 +2158,5 @@ i.icon:before {
   }
   #footer .credit {
     text-align: center;
-  }
-}
-@media (min-width: 940px) {
-  .single .sidebar {
-    width: 30%;
-  }
-  .single .content-area {
-    width: 70%;
   }
 }
