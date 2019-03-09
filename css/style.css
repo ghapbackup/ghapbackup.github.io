@@ -930,7 +930,7 @@ code {
   overflow: hidden;
 }
 .article-row {
-  width: 100%;
+  width: 50%;
   float: left;
   position: relative;
   padding: 30px 0px 0px 30px;
@@ -948,7 +948,7 @@ code {
   clear: both;
 }
 .article-summary {
-  width: 50%;
+  width: 25%;
   float: left;
   margin-bottom: 30px;
 }
