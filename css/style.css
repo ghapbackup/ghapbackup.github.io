@@ -249,7 +249,7 @@ code {
 .container-inner {
   max-width: 1120px;
   min-width: 320px;
-  width: 50%;
+  width: 80%;
   margin: 0 auto;
 }
 .container-inner:before,
@@ -930,7 +930,7 @@ code {
   overflow: hidden;
 }
 .article-row {
-  width: 100%;
+  width: 50%;
   float: left;
   position: relative;
   padding: 30px 0px 0px 30px;
