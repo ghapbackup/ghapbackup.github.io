@@ -948,16 +948,16 @@ code {
   clear: both;
 }
 .article-summary {
-  width: 50%;
+  width: 25%;
   float: left;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 .article-summary a {
   text-decoration: none;
   color: #111;
 }
 .article-summary .article-summary-inner {
-  margin-right: 30px;
+  margin: 0px 15px 0px 15px;
 }
 .article-summary .article-summary-inner .thumbnail {
   height: 0;
@@ -2131,7 +2131,7 @@ i.icon:before {
     width: 100%;
   }
   .article-summary .article-summary-inner {
-    margin: 15px 15px 15px 0;
+    margin: 15px 15px 15px 15px;
   }
   #sidebar {
     float: none;
