@@ -1126,6 +1126,7 @@ a.article-title:hover {
 .article-entry p,
 .article-entry table {
   margin: 1.6em 0;
+  text-align: center;
 }
 .article-entry h1,
 .article-entry h2,
@@ -1171,8 +1172,11 @@ a.article-title:hover {
 .article-entry video {
   max-width: 100%;
   height: auto;
-  display: block;
-  margin: auto;
+  display: inline-block;
+  margin-bottom: 15px;
+  margin-top: auto;
+  margin-right: auto;
+  margin-left: auto;
 }
 .article-entry iframe {
   border: none;
