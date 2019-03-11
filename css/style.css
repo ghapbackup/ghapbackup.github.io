@@ -1019,7 +1019,6 @@ code {
   background-image: url("images/thumb-default.png");
 }
 .article-summary .article-summary-inner .article-title {
-  margin-bottom: 10px;
   font-size: 20px;
   font-weight: 400;
   line-height: 1.5em;
@@ -1068,7 +1067,6 @@ code {
   -moz-transition: color 0.2s;
   -ms-transition: color 0.2s;
   transition: color 0.2s;
-  margin-bottom: 10px;
 }
 a.article-title:hover {
   color: #111;
