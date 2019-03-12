@@ -709,6 +709,7 @@ code {
   padding: 30px 30px 20px;
 }
 .widget-title {
+  color: #444;
   font-size: 15px;
   font-weight: 400;
   text-transform: uppercase;
@@ -1114,7 +1115,7 @@ a.article-title:hover {
   margin-right: 0;
 }
 .article-tag .tag-link:before {
-  content: "#";
+  content: "　#";
 }
 .article-entry {
   color: #555;
@@ -2170,4 +2171,7 @@ i.icon:before {
   #footer .credit {
     text-align: center;
   }
+}
+a {
+  text-decoration: none;
 }
