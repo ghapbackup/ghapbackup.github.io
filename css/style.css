@@ -1124,6 +1124,9 @@ a.article-title:hover {
 .article-summary .article-meta > div {
   margin-right: 0;
 }
+.article-tag .tag-link {
+  font-size: 14px;
+}
 .article-tag .tag-link:before {
   content: "　#";
 }
