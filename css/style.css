@@ -42,6 +42,16 @@
   font-size: 1em;
   color: #aaa;
 }
+.widget h7,
+.article-entry h7 {
+  font-size: 1.3em;
+}
+.widget h7:before,
+.article-entry h7:before {
+  content: "\f15c";
+  font-family: FontAwesome;
+  margin-right: 6px;
+}
 .widget hr,
 .article-entry hr {
   border: 1px dashed #ddd;
