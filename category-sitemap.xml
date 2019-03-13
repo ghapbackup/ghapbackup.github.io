@@ -29,13 +29,6 @@
     </url>
 
     <url>
-        <loc>http://ghapbackup.github.io/categories/%EC%B9%B8%EC%BD%94%EB%A0%88/%EB%8F%99%EC%9D%B8%EC%A7%80/</loc>
-        <lastmod>2019-03-12T16:33:59.815Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://ghapbackup.github.io/categories/%EB%8F%99%EB%B0%A9/%ED%95%A9%EB%8F%99%EC%9D%B8%EC%A7%80/</loc>
         <lastmod>2019-03-12T16:45:34.761Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -45,13 +38,6 @@
     <url>
         <loc>http://ghapbackup.github.io/categories/%EC%B9%B8%EC%BD%94%EB%A0%88/%ED%95%A9%EB%8F%99%EC%9D%B8%EC%A7%80/</loc>
         <lastmod>2019-03-12T17:07:10.187Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://ghapbackup.github.io/categories/%EC%B9%B8%EC%BD%94%EB%A0%88/</loc>
-        <lastmod>2019-03-12T17:14:17.058Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -71,22 +57,36 @@
     </url>
 
     <url>
+        <loc>http://ghapbackup.github.io/categories/%EC%B9%B8%EC%BD%94%EB%A0%88/</loc>
+        <lastmod>2019-03-13T09:29:01.843Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://ghapbackup.github.io/categories/%EC%B9%B8%EC%BD%94%EB%A0%88/%EB%8F%99%EC%9D%B8%EC%A7%80/</loc>
+        <lastmod>2019-03-13T09:29:01.843Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://ghapbackup.github.io/categories/%EB%8F%99%EB%B0%A9/</loc>
-        <lastmod>2019-03-13T09:14:53.125Z</lastmod>
+        <lastmod>2019-03-13T09:47:03.231Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://ghapbackup.github.io/categories/%EB%8F%99%EB%B0%A9/%EB%8F%99%EC%9D%B8%EC%A7%80/</loc>
-        <lastmod>2019-03-13T09:14:53.125Z</lastmod>
+        <lastmod>2019-03-13T09:47:03.231Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://ghapbackup.github.io/categories/%EC%9D%B4%EC%AA%BD-%EB%B2%88%EC%97%AD/</loc>
-        <lastmod>2019-03-13T09:14:53.125Z</lastmod>
+        <lastmod>2019-03-13T09:47:03.231Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
