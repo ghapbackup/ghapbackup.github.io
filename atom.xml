@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://ghapbackup.github.io/"/>
-  <updated>2019-03-14T12:56:37.181Z</updated>
+  <updated>2019-03-14T16:48:36.820Z</updated>
   <id>http://ghapbackup.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>활동 중단</title>
+    <link href="http://ghapbackup.github.io/2019/03/15/%ED%99%9C%EB%8F%99-%EC%A4%91%EB%8B%A8/"/>
+    <id>http://ghapbackup.github.io/2019/03/15/활동-중단/</id>
+    <published>2019-03-14T16:46:22.000Z</published>
+    <updated>2019-03-14T16:48:36.820Z</updated>
+    
+    <content type="html"><![CDATA[<p>죄송 ㅋ</p><p>솔직히 하루 종일 수작업으로 조빠지게 이전했는데<br>태그 달아둔 것까지 고대로 크롤링되어있는 거 보니까 멘탈 나가서 못하겠음.</p><p>어차피 지금껏 올렸던 거 그쪽에 그대로 박제되어있던데 뭐하러 또 올림</p><p><a href="https://rosenrose.github.io/" target="_blank" rel="noopener">https://rosenrose.github.io/</a></p><p>이쪽 가서 보십쇼 그냥</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;죄송 ㅋ&lt;/p&gt;
+&lt;p&gt;솔직히 하루 종일 수작업으로 조빠지게 이전했는데&lt;br&gt;태그 달아둔 것까지 고대로 크롤링되어있는 거 보니까 멘탈 나가서 못하겠음.&lt;/p&gt;
+&lt;p&gt;어차피 지금껏 올렸던 거 그쪽에 그대로 박제되어있던데 뭐하러 또 올림&lt;/p&gt;
+&lt;p&gt;
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>왜 하나도 받을 수 없나요?</title>
@@ -110,9 +134,9 @@
     
       <category term="동방" scheme="http://ghapbackup.github.io/categories/%EB%8F%99%EB%B0%A9/"/>
     
-      <category term="이쪽 번역" scheme="http://ghapbackup.github.io/categories/%EC%9D%B4%EC%AA%BD-%EB%B2%88%EC%97%AD/"/>
-    
       <category term="동인지" scheme="http://ghapbackup.github.io/categories/%EB%8F%99%EB%B0%A9/%EB%8F%99%EC%9D%B8%EC%A7%80/"/>
+    
+      <category term="이쪽 번역" scheme="http://ghapbackup.github.io/categories/%EC%9D%B4%EC%AA%BD-%EB%B2%88%EC%97%AD/"/>
     
     
       <category term="장르:개그" scheme="http://ghapbackup.github.io/tags/%EC%9E%A5%EB%A5%B4-%EA%B0%9C%EA%B7%B8/"/>
@@ -160,11 +184,11 @@
     
       <category term="캐릭터:플랑" scheme="http://ghapbackup.github.io/tags/%EC%BA%90%EB%A6%AD%ED%84%B0-%ED%94%8C%EB%9E%91/"/>
     
-      <category term="캐릭터:레이무" scheme="http://ghapbackup.github.io/tags/%EC%BA%90%EB%A6%AD%ED%84%B0-%EB%A0%88%EC%9D%B4%EB%AC%B4/"/>
-    
       <category term="장르:개그" scheme="http://ghapbackup.github.io/tags/%EC%9E%A5%EB%A5%B4-%EA%B0%9C%EA%B7%B8/"/>
     
       <category term="캐릭터:테위" scheme="http://ghapbackup.github.io/tags/%EC%BA%90%EB%A6%AD%ED%84%B0-%ED%85%8C%EC%9C%84/"/>
+    
+      <category term="캐릭터:레이무" scheme="http://ghapbackup.github.io/tags/%EC%BA%90%EB%A6%AD%ED%84%B0-%EB%A0%88%EC%9D%B4%EB%AC%B4/"/>
     
       <category term="캐릭터:나즈린" scheme="http://ghapbackup.github.io/tags/%EC%BA%90%EB%A6%AD%ED%84%B0-%EB%82%98%EC%A6%88%EB%A6%B0/"/>
     
@@ -229,9 +253,9 @@
     
       <category term="캐릭터:플랑" scheme="http://ghapbackup.github.io/tags/%EC%BA%90%EB%A6%AD%ED%84%B0-%ED%94%8C%EB%9E%91/"/>
     
-      <category term="캐릭터:레이무" scheme="http://ghapbackup.github.io/tags/%EC%BA%90%EB%A6%AD%ED%84%B0-%EB%A0%88%EC%9D%B4%EB%AC%B4/"/>
-    
       <category term="장르:개그" scheme="http://ghapbackup.github.io/tags/%EC%9E%A5%EB%A5%B4-%EA%B0%9C%EA%B7%B8/"/>
+    
+      <category term="캐릭터:레이무" scheme="http://ghapbackup.github.io/tags/%EC%BA%90%EB%A6%AD%ED%84%B0-%EB%A0%88%EC%9D%B4%EB%AC%B4/"/>
     
       <category term="캐릭터:코이시" scheme="http://ghapbackup.github.io/tags/%EC%BA%90%EB%A6%AD%ED%84%B0-%EC%BD%94%EC%9D%B4%EC%8B%9C/"/>
     
@@ -616,9 +640,9 @@
       <category term="동인지" scheme="http://ghapbackup.github.io/categories/%EB%8F%99%EB%B0%A9/%EB%8F%99%EC%9D%B8%EC%A7%80/"/>
     
     
-      <category term="캐릭터:아야" scheme="http://ghapbackup.github.io/tags/%EC%BA%90%EB%A6%AD%ED%84%B0-%EC%95%84%EC%95%BC/"/>
-    
       <category term="장르:개그" scheme="http://ghapbackup.github.io/tags/%EC%9E%A5%EB%A5%B4-%EA%B0%9C%EA%B7%B8/"/>
+    
+      <category term="캐릭터:아야" scheme="http://ghapbackup.github.io/tags/%EC%BA%90%EB%A6%AD%ED%84%B0-%EC%95%84%EC%95%BC/"/>
     
       <category term="캐릭터:스이카" scheme="http://ghapbackup.github.io/tags/%EC%BA%90%EB%A6%AD%ED%84%B0-%EC%8A%A4%EC%9D%B4%EC%B9%B4/"/>
     
@@ -632,13 +656,13 @@
     
       <category term="캐릭터:시키에이키" scheme="http://ghapbackup.github.io/tags/%EC%BA%90%EB%A6%AD%ED%84%B0-%EC%8B%9C%ED%82%A4%EC%97%90%EC%9D%B4%ED%82%A4/"/>
     
-      <category term="캐릭터:리리카" scheme="http://ghapbackup.github.io/tags/%EC%BA%90%EB%A6%AD%ED%84%B0-%EB%A6%AC%EB%A6%AC%EC%B9%B4/"/>
+      <category term="캐릭터:메디슨" scheme="http://ghapbackup.github.io/tags/%EC%BA%90%EB%A6%AD%ED%84%B0-%EB%A9%94%EB%94%94%EC%8A%A8/"/>
     
       <category term="캐릭터:메를랑" scheme="http://ghapbackup.github.io/tags/%EC%BA%90%EB%A6%AD%ED%84%B0-%EB%A9%94%EB%A5%BC%EB%9E%91/"/>
     
-      <category term="캐릭터:코마치" scheme="http://ghapbackup.github.io/tags/%EC%BA%90%EB%A6%AD%ED%84%B0-%EC%BD%94%EB%A7%88%EC%B9%98/"/>
+      <category term="캐릭터:리리카" scheme="http://ghapbackup.github.io/tags/%EC%BA%90%EB%A6%AD%ED%84%B0-%EB%A6%AC%EB%A6%AC%EC%B9%B4/"/>
     
-      <category term="캐릭터:메디슨" scheme="http://ghapbackup.github.io/tags/%EC%BA%90%EB%A6%AD%ED%84%B0-%EB%A9%94%EB%94%94%EC%8A%A8/"/>
+      <category term="캐릭터:코마치" scheme="http://ghapbackup.github.io/tags/%EC%BA%90%EB%A6%AD%ED%84%B0-%EC%BD%94%EB%A7%88%EC%B9%98/"/>
     
   </entry>
   
@@ -674,35 +698,6 @@
       <category term="캐릭터:히지리" scheme="http://ghapbackup.github.io/tags/%EC%BA%90%EB%A6%AD%ED%84%B0-%ED%9E%88%EC%A7%80%EB%A6%AC/"/>
     
       <category term="캐릭터:앨리스" scheme="http://ghapbackup.github.io/tags/%EC%BA%90%EB%A6%AD%ED%84%B0-%EC%95%A8%EB%A6%AC%EC%8A%A4/"/>
-    
-      <category term="서클:火鳥でできるもん!" scheme="http://ghapbackup.github.io/tags/%EC%84%9C%ED%81%B4-%E7%81%AB%E9%B3%A5%E3%81%A7%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%82%E3%82%93/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>자위의 업무 3 -방대편-</title>
-    <link href="http://ghapbackup.github.io/2019/03/14/%E7%81%AB%E9%B3%A5%E3%81%A7%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%82%E3%82%93-%E7%81%AB%E9%B3%A5-%EC%9E%90%EC%9C%84%EC%9D%98-%EC%97%85%EB%AC%B4-3-%EB%B0%A9%EB%8C%80%ED%8E%B8/"/>
-    <id>http://ghapbackup.github.io/2019/03/14/火鳥でできるもん-火鳥-자위의-업무-3-방대편/</id>
-    <published>2019-03-14T11:07:19.000Z</published>
-    <updated>2019-03-14T12:53:00.387Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="http://drive.google.com/uc?export=view&amp;id=1huQWI8iW68Jq3pXiVlbuuuaUkJZBzo0a" alt><br><img src="http://drive.google.com/uc?export=view&amp;id=1S6p6VHWvNeEOVW2-FgHgHoIBrAgvf4JQ" alt><br><img src="http://drive.google.com/uc?export=view&amp;id=1y6qaeh_JvgyUEIiK-u34fkrmIYeV7sS6" alt><br><img src="http://drive.google.com/uc?export=view&amp;id=1c53-6RfUJ3oQTC1zmfjE2bT08CjcWiwF" alt><br><img src="http://drive.google.com/uc?export=view&amp;id=1-KjngmYRauR4CnvFzy5p23Q1MRMpV-nO" alt><br><img src="http://drive.google.com/uc?export=view&amp;id=1sTlH6ZK2SCv51XXv-SQS5jkASzds_36p" alt><br><img src="http://drive.google.com/uc?export=view&amp;id=13XS8UsVRjYr3ARkb_vvPLyAdlDRI8fUD" alt><br><img src="http://drive.google.com/uc?export=view&amp;id=1VivSeABdT4NCd8546LYHcpOGCzB2Eue3" alt><br><img src="http://drive.google.com/uc?export=view&amp;id=18Sb4RUarZRHM0-KupnCuhIFae13zg7NQ" alt><br><img src="http://drive.google.com/uc?export=view&amp;id=1qP4zqjyeal3Ai231g5Ercq7X4cZb1OIQ" alt></p><p>[火鳥でできるもん! (火鳥)] 자위의 업무 3 -방대편-</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;img src=&quot;http://drive.google.com/uc?export=view&amp;amp;id=1huQWI8iW68Jq3pXiVlbuuuaUkJZBzo0a&quot; alt&gt;&lt;br&gt;&lt;img src=&quot;http://drive.google.com/uc?e
-      
-    
-    </summary>
-    
-      <category term="기타 장르" scheme="http://ghapbackup.github.io/categories/%EA%B8%B0%ED%83%80-%EC%9E%A5%EB%A5%B4/"/>
-    
-      <category term="단편" scheme="http://ghapbackup.github.io/categories/%EA%B8%B0%ED%83%80-%EC%9E%A5%EB%A5%B4/%EB%8B%A8%ED%8E%B8/"/>
-    
-    
-      <category term="장르:개그" scheme="http://ghapbackup.github.io/tags/%EC%9E%A5%EB%A5%B4-%EA%B0%9C%EA%B7%B8/"/>
     
       <category term="서클:火鳥でできるもん!" scheme="http://ghapbackup.github.io/tags/%EC%84%9C%ED%81%B4-%E7%81%AB%E9%B3%A5%E3%81%A7%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%82%E3%82%93/"/>
     
