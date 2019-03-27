@@ -4,22 +4,17 @@
 
     <sitemap>
         <loc>http://ghapbackup.github.io/post-sitemap.xml</loc>
-        <lastmod>2019-03-23T15:14:17.966Z</lastmod>
-    </sitemap>
-
-    <sitemap>
-        <loc>http://ghapbackup.github.io/page-sitemap.xml</loc>
-        <lastmod>2019-03-23T14:05:10.445Z</lastmod>
+        <lastmod>2019-03-27T10:24:45.909Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>http://ghapbackup.github.io/category-sitemap.xml</loc>
-        <lastmod>2019-03-12T07:40:02.443Z</lastmod>
+        <lastmod>2019-03-27T10:24:45.909Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>http://ghapbackup.github.io/tag-sitemap.xml</loc>
-        <lastmod>2019-03-12T14:38:18.150Z</lastmod>
+        <lastmod>2019-03-27T10:20:11.457Z</lastmod>
     </sitemap>
 
 </sitemapindex>
