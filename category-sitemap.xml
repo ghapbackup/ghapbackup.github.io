@@ -8,50 +8,15 @@
     </url>
 
     <url>
-        <loc>http://ghapbackup.github.io/categories/%EA%B8%B0%ED%83%80/</loc>
-        <lastmod>2019-03-27T16:52:00.973Z</lastmod>
+        <loc>http://ghapbackup.github.io/categories/%EB%8F%99%EB%B0%A9/</loc>
+        <lastmod>2019-05-15T03:15:26.386Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://ghapbackup.github.io/categories/%EA%B8%B0%ED%83%80/%EB%B2%BD%EB%9E%8C%ED%95%AD%EB%A1%9C/</loc>
-        <lastmod>2019-03-27T16:52:00.973Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://ghapbackup.github.io/categories/%ED%8E%98%EA%B7%B8%EC%98%A4/</loc>
-        <lastmod>2019-03-27T17:06:09.520Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://ghapbackup.github.io/categories/%ED%8E%98%EA%B7%B8%EC%98%A4/%EB%8F%99%EC%9D%B8%EC%A7%80/</loc>
-        <lastmod>2019-03-27T17:06:09.520Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://ghapbackup.github.io/categories/%EC%B9%B8%EC%BD%94%EB%A0%88/%EC%9B%B9%EC%BD%94%EB%AF%B9/</loc>
-        <lastmod>2019-03-28T08:09:45.338Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://ghapbackup.github.io/categories/%EC%B9%B8%EC%BD%94%EB%A0%88/</loc>
-        <lastmod>2019-03-28T11:13:42.198Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://ghapbackup.github.io/categories/%EC%B9%B8%EC%BD%94%EB%A0%88/%EB%8F%99%EC%9D%B8%EC%A7%80/</loc>
-        <lastmod>2019-03-28T11:13:42.198Z</lastmod>
+        <loc>http://ghapbackup.github.io/categories/%EB%8F%99%EB%B0%A9/%EB%8F%99%EC%9D%B8%EC%A7%80/</loc>
+        <lastmod>2019-05-15T03:15:26.386Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
